@@ -3,8 +3,6 @@ var resultgethit = getnewhit();
 var randomhit = 0;
 var clikednum = 0;
 
-var obj = {};
-
 var input = prompt(`enter your name`);
 
 function getname() {
